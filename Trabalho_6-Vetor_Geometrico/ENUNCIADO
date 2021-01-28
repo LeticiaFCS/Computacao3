@@ -1,0 +1,5 @@
+Implementar uma classe template Vetor<n,T> onde T deve ser numérico. As operações básicas de vetores geométricos devem estar implementadas.
+
+Um Vetor em duas dimensões seria Vetor<2,double>.
+
+Criar os operadores de multiplicação, adição e subtração de vetores. Lembrando que existe produto escalar e produto vetorial. Criar também multiplicação e divisão por escalar.
