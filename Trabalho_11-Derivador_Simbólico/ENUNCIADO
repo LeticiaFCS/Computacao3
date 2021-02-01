@@ -1,0 +1,1 @@
+Nesta tarefa você deve criar templates, funções e operadores para permitir a criação de um derivador simbólico. A idéia é que você possa definir uma fórmula para uma função que recebe um parâmetro x e essa função possa ser chamada através do método e (passando um valor para x), e calculando também o valor da derivada dela em relação a x através do método dx.
